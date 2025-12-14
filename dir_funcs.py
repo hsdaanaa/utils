@@ -3,8 +3,7 @@
 # Functions to extract file paths, list file names and to create new folders
 # v251111a - by Hassan
 #===========================================================================
-# Dependencies
-#===========================================================================
+#=============================Dependencies==================================
 import sys
 import os
 import shutil
